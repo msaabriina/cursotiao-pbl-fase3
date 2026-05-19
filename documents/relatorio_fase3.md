@@ -125,7 +125,7 @@ Cada linha abaixo do cabeçalho representa uma leitura realizada pelo sistema.
 
 ### Print do arquivo CSV no VS Code
 
-![Arquivo CSV no VS Code](../assets/arquivo-csv-vscode.png)
+![Arquivo CSV no VS Code](../assets/arquivo_csv_vscode.png)
 
 ---
 
