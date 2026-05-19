@@ -125,7 +125,7 @@ Cada linha abaixo do cabeçalho representa uma leitura realizada pelo sistema.
 
 ### Print do arquivo CSV no VS Code
 
-![Arquivo CSV no VS Code](../assets/csv-vscode.png)
+![Arquivo CSV no VS Code](../assets/arquivo-csv-vscode.png)
 
 ---
 
@@ -161,7 +161,7 @@ O passo a passo seguido foi:
 5. Selecionar a opção **Importar Dados**;
 6. Escolher o arquivo `dados_wokwi.csv`;
 7. Avançar na tela de visualização dos dados;
-8. Definir o nome da tabela;
+8. Definir o nome da tabela - DADOS_SENSORES;
 9. Conferir os nomes das colunas;
 10. Finalizar a importação.
 
@@ -326,23 +326,25 @@ cursotiao-pbl-fase3/
 ├── assets/
 │   ├── wokwi-circuito.png
 │   ├── serial-monitor-csv.png
-│   ├── csv-vscode.png
+│   ├── arquivo-csv-vscode.png
 │   ├── oracle-colunas.png
 │   ├── oracle-dados.png
 │   ├── select-dados-sensores.png
+│   ├── logo-fiap.png
+│   ├── media-umidade-do-solo.png
 │   └── consulta-status-bomba.png
 │
 ├── document/
 │   └── relatorio_fase3.md
 │
 ├── scripts/
-│   ├── criar_tabela.sql
 │   └── consultas_sql.sql
 │
 └── src/
     ├── codigo_wokwi.ino
     ├── diagram.json
-    └── dados_wokwi.csv
+    ├── libraries.txt
+    └── dados_wokwi_banco.csv
 ```
 
 A pasta `assets` foi utilizada para guardar os prints do projeto.
