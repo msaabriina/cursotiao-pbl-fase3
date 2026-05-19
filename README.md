@@ -286,7 +286,7 @@ Resumo do processo realizado:
 
 ### Arquivo CSV no VS Code
 
-![CSV no VS Code](assets/arquivo_csv-vscode.png)
+![CSV no VS Code](assets/arquivo_csv_vscode.png)
 
 <br>
 
