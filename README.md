@@ -531,7 +531,7 @@ O vídeo demonstrativo apresenta:
 Link do vídeo:
 
 ```text
-INSERIR_LINK_DO_YOUTUBE_AQUI
+https://youtu.be/BbPWc7ChgCU
 ```
 
 <br>
