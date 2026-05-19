@@ -22,10 +22,10 @@
 
 ## 👨‍🎓 Integrantes
 
-- Karina Szewczuk
-- Maria Sabrina Feitosa da Silva
-- Nicolas Lima Apolinário
-- Roger Gabriel de Souza Jesus Costa
+- Karina Garta Szewczuk  RM569309
+- Maria Sabrina Feitosa da Silva  RM568714
+- Nicolas Lima Apolinário  RM570741
+- Roger Gabriel de Souza Jesus Costa  RM573659
 
 <br>
 
